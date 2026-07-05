@@ -1,0 +1,5 @@
+com\Joao_Dev\demo\config\AppConfig.class
+com\Joao_Dev\demo\service\HelloWorldService.class
+com\Joao_Dev\demo\DemoApplication.class
+com\Joao_Dev\demo\controller\HelloWordController.class
+com\Joao_Dev\demo\domain\User.class
